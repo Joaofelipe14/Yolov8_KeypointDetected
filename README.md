@@ -1,5 +1,4 @@
 
-```markdown
 # YOLOv8 Keypoint Detected
 
 ## Instalação de Dependências
